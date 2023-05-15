@@ -1,6 +1,7 @@
 # block-domains
 
 # เว็บพนัน
+(\.|^)(google)\.com$
 lockdown168.com
 lockdown168.co
 hotgraph881.com
