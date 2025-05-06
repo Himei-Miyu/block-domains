@@ -1,6 +1,0 @@
-! ads goal5.co บ้านผลบอล
-goal5.co###maingoal > div:nth-of-type(2)
-goal5.co##[src*="https://goal5.co/banner/2bc1279ea7861536dc1039a842e4f498.gif"]
-goal5.co##[src*="https://goal5.co/banner/2060b9a675c28a35bde24867adf5f905.gif"]
-goal5.co##[src*="https://goal5.co/banner/4a9747ada02e9b4d62edc8c85fa83591.gif"]
-goal5.co##[src*="https://goal5.co/banner/d37e28baa2f77aebead65c74826e7da4.gif"]
