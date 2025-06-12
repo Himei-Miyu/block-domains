@@ -1,18 +1,18 @@
 ! Tag Element Remove
-hentaithai.com##.banner_sidebar
-doujin-th.com##div.container:nth-of-type(3)
-doujin-th.com##div.row:nth-of-type(1) > .col-xs-12.col-md-8 > div.row:nth-of-type(2)
-doujin-th.com##div.row:nth-of-type(1) > .col-xs-12.col-md-4
-doujin-th.com##div.row:nth-of-type(1) > .col-xs-12.col-md-8 > div.row:nth-of-type(3)
-doujin-th.com##.banner_sidebar
-manga168.net##center
-www.go-manga.com###sticky-bottom3
-www.go-manga.com###sticky-bottom
-www.xvideos.com###ad-header-mobile
-goal5.co###maingoal > div:nth-of-type(2)
-manga-lc.net##.c-sidebar.c-top-sidebar.wp-manga
-www.niceoppai.net###text-6 > .con
-www.niceoppai.net###text-6 > .title
-doujin-lc.net##.ads-resm.entered.litespeed-loaded
-dookeela.live###slider-f
-dookeela.live##[src*="/images/closed11.png"]
+! hentaithai.com##.banner_sidebar
+! doujin-th.com##div.container:nth-of-type(3)
+! doujin-th.com##div.row:nth-of-type(1) > .col-xs-12.col-md-8 > div.row:nth-of-type(2)
+! doujin-th.com##div.row:nth-of-type(1) > .col-xs-12.col-md-4
+! doujin-th.com##div.row:nth-of-type(1) > .col-xs-12.col-md-8 > div.row:nth-of-type(3)
+! doujin-th.com##.banner_sidebar
+! manga168.net##center
+! www.go-manga.com###sticky-bottom3
+! www.go-manga.com###sticky-bottom
+! www.xvideos.com###ad-header-mobile
+! goal5.co###maingoal > div:nth-of-type(2)
+! manga-lc.net##.c-sidebar.c-top-sidebar.wp-manga
+! www.niceoppai.net###text-6 > .con
+! www.niceoppai.net###text-6 > .title
+! doujin-lc.net##.ads-resm.entered.litespeed-loaded
+! dookeela.live###slider-f
+! dookeela.live##[src*="/images/closed11.png"]
