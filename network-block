@@ -51,14 +51,6 @@
 ! ############################################
 
 
-||hentaithai.com/banner/main_top.php?no=1$image
-||hentaithai.com/banner/main_top.php?no=2$image
-||hentaithai.com/banner/main_top.php?no=3$image
-||hentaithai.com/banner/main_top.php?no=1$image
-||hentaithai.com/banner/main_top.php?no=2$image
-||hentaithai.com/banner/main_top.php?no=3$image
-||hentaithai.com/banner/main_side_2.html$image
-||hentaithai.com/banner/topic_side.html$image
 ||manga168.net/wp-content/uploads/2025/04/7dd9800e186d0ff5bab3e05b99107937.jpg$image
 ||manga168.net/wp-content/uploads/2025/04/6889c435a9db40c342bc742ffd5f7796.gif$image
 ||manga168.net/wp-content/uploads/2025/04/9c910e158e8084c75292409ff4eb2c0d.gif$image
@@ -139,12 +131,32 @@
 ||manga1688.com/wp-content/uploads/2025/04/2.gif$image
 
 
+||hentaithai.com/banner/main_top.php$image
+||hentaithai.com/banner/main_side_2.html$image
+||hentaithai.com/banner/topic_side.html$image
+||hentaithai.com/banner/exo/141372-1ca1a9168abc86ffe5f15c297469409b4c737f64.jpg$image
+||hentaithai.com/banner/exo/141372-45dc1ed182209210f4aada10135d4d06a2c67750.jpg$image
+||hentaithai.com/banner/exo/703638-6cb74df30f38fde3544cf5d3e8656c9e82ec70f7.jpg$image
+||hentaithai.com/banner/exo/703638-61d027dcd748ce129850dc57c93a0d7954e89152.jpg$image
+||hentaithai.com/banner/exo/703638-ffa8c55bbe487599f6a3ac205bbc67c3c2b43242.jpg$image
+||hentaithai.com/banner/exo/703638-6cb74df30f38fde3544cf5d3e8656c9e82ec70f7.jpg$image
+||hentaithai.com/banner/exo/141372-45dc1ed182209210f4aada10135d4d06a2c67750.jpg$image
+||hentaithai.com/banner/exo/141372-1ca1a9168abc86ffe5f15c297469409b4c737f64.jpg$image
+||hentaithai.com/banner/exo/703638-ffa8c55bbe487599f6a3ac205bbc67c3c2b43242.jpg$image
+||hentaithai.com/banner/exo/703638-61d027dcd748ce129850dc57c93a0d7954e89152.jpg$image
+||hentaithai.com/banner/exo/141372-45dc1ed182209210f4aada10135d4d06a2c67750.jpg$image
+||hentaithai.com/banner/exo/141372-1ca1a9168abc86ffe5f15c297469409b4c737f64.jpg$image
+||hentaithai.com/banner/exo/703638-ffa8c55bbe487599f6a3ac205bbc67c3c2b43242.jpg$image
+||hentaithai.com/banner/exo/703638-61d027dcd748ce129850dc57c93a0d7954e89152.jpg$image
+||hentaithai.com/banner/exo/703638-6cb74df30f38fde3544cf5d3e8656c9e82ec70f7.jpg$image
+
+
 ! ############################################
 ! #             Global blacklist             #
 ! ############################################
 
 
-
+*/hPiece.jpg$image
 */728x200-sexygame1688v3.gif$image
 */728x200-SA1688v3.gif$image
 */ufakey777.gif$image
