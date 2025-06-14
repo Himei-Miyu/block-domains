@@ -69,6 +69,7 @@
 ||images-delivery.com/020-728x180-G7.gif$image
 ||images-delivery.com/8196M%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B8%95%E0%B8%A3%E0%B8%87.gif$image
 ||images-delivery.com/allbet24hr-bannergif-728x200.gif$image
+||blogger.googleusercontent.com/img/b/*$image
 
 ! Local Image Blacklist
 ||god-doujin.com/wp-content/uploads/2025/04/678c924b86f47.webp$image
@@ -106,6 +107,9 @@
 ||www.anime-masters.com/upload/(%E0%B8%82%E0%B8%A7%E0%B8%B2-3)-PIG_No.jpg$image
 ||www.anime-masters.com/upload/(%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2-4)-PIG_No.jpg$image
 ||www.anime-masters.com/upload/(%E0%B8%82%E0%B8%A7%E0%B8%B2-4)-PIG_No.jpg$image
+||image5.niceoppai.net/d8/db/Upload-setto2-LZ6PI-By-Niceoppai.jpg$image
+||image5.niceoppai.net/d4/6b/Upload-setto2-EYO5V-By-Niceoppai.jpg$image
+||image7.niceoppai.net/d0/3f/Upload-tatas232-8DHG9-By-Niceoppai.jpg$image
 
 ! Local Script Blacklist
 ||god-doujin.com^$script
@@ -130,6 +134,8 @@
 ||hanimesubth.com^$script
 ||anime-h.net^$script
 ||www.oremanga.net^$script
+||www.mangakimi.com^$script
+||www.niceoppai.net^$script
 
 ! Local Gif Blacklist
 ||god-doujin.com/*.gif$image
@@ -155,3 +161,5 @@
 ||hanimesubth.com/*.gif$image
 ||anime-h.net/*.gif$image
 ||www.oremanga.net/*.gif$image
+||www.mangakimi.com/*.gif$image
+||www.niceoppai.net/*.gif$image
