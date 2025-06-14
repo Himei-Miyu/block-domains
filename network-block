@@ -129,6 +129,7 @@
 ||goal5.co^$script
 ||hanimesubth.com^$script
 ||anime-h.net^$script
+||www.oremanga.net^$script
 
 ! Local Gif Blacklist
 ||god-doujin.com/*.gif$image
@@ -153,3 +154,4 @@
 ||goal5.co/*.gif$image
 ||hanimesubth.com/*.gif$image
 ||anime-h.net/*.gif$image
+||www.oremanga.net/*.gif$image
