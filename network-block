@@ -4,6 +4,7 @@
 @@*/*.css$css
 @@*$font
 @@*/cloudflare-static/rocket-loader.min.js$script
+@@*/cdn-cgi/challenge-platform/h/b/orchestrate/*$script
 
 ! Local Whilelist
 @@||neko-hentai.net/assets/js/minimal.js$script
