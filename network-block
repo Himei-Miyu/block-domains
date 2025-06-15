@@ -141,6 +141,7 @@
 ||www.mangakimi.com^$script
 ||www.niceoppai.net^$script
 ||manga1688.com^$script
+||www.tanuki-manga.com^$script
 
 ! Local Gif Blacklist
 ||god-doujin.com/*.gif$image
@@ -169,3 +170,4 @@
 ||www.mangakimi.com/*.gif$image
 ||www.niceoppai.net/*.gif$image
 ||manga1688.com/*.gif$image
+||www.tanuki-manga.com/*.gif$image
