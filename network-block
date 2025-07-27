@@ -13,6 +13,8 @@
 @@||neko-hentai.net/assets/js/script.js$script
 @@||dookeela.live/livewire/livewire.min.js$script
 @@||dookeela.live/js/*.js$script
+@@||dookeela2.live/livewire/livewire.min.js$script
+@@||dookeela2.live/js/*.js$script
 @@||www.anime-sugoi.com/js/*.js$script
 @@||www.anime-masters.com/js/*.js$script
 @@||goal5.co/js/livescore_goalco5.js$script
@@ -101,7 +103,6 @@
 ||s1.hentaithai.net/image/other/hPiece.jpg$image
 ||s1.hentaithai.net/image/banner/300x500-*.jpg$image
 ||clip2thai.com/wp-content/uploads/2024/10/19.webp$image
-||dookeela.live^$script
 ||www.anime-sugoi.com/pic/webp/*.webp$image
 ||www.anime-masters.com/upload/(%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2-1)-PIG_No.jpg$image
 ||www.anime-masters.com/upload/(%E0%B8%82%E0%B8%A7%E0%B8%B2-1)-PIG_No.jpg$image
@@ -149,6 +150,8 @@
 ||www.anime-yuzu.com/up/img/webp/slotgame666.webp$image
 ||www.anime-yuzu.com/up/img/webp/lotto432.webp$image
 ||www.anime-yuzu.com/up/img/webp/juad888.webp$image
+||dookeela.live/images/closed11.png
+||dookeela2.live/images/closed11.png
 
 ! Local Script Blacklist
 ||god-doujin.com^$script
@@ -177,6 +180,8 @@
 ||www.niceoppai.net^$script
 ||manga1688.com^$script
 ||www.tanuki-manga.com^$script
+||dookeela.live^$script
+||dookeela2.live^$script
 
 ! Local Gif Blacklist
 ||god-doujin.com/*.gif$image
@@ -195,6 +200,7 @@
 ||clip2thai.com/*.gif$image
 ||www.anime-yuzu.com/*.gif$image
 ||dookeela.live/*.gif$image
+||dookeela2.live/*.gif$image
 ||www.anime-sugoi.com/*.gif$image
 ||www.anime-masters.com/*.gif$image
 ||www.xn--l3c0azab5a2gta.com/*.gif$image
