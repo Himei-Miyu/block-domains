@@ -1,2 +1,5 @@
+! wait change to one file for Element Block
 ! Tag Element Remove
 goal5.co###maingoal > div:nth-of-type(2)
+
+! URL Element Remove
