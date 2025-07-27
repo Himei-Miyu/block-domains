@@ -152,6 +152,8 @@
 ||www.anime-yuzu.com/up/img/webp/juad888.webp$image
 ||dookeela.live/images/closed11.png
 ||dookeela2.live/images/closed11.png
+||www.bankeela.com/wp-content/uploads/2024/11/Live_football_on_tv-1000x369.jpg
+||goal5.co/images/bg.png$image
 
 ! Local Script Blacklist
 ||god-doujin.com^$script
@@ -182,6 +184,7 @@
 ||www.tanuki-manga.com^$script
 ||dookeela.live^$script
 ||dookeela2.live^$script
+||www.bankeela.com$script
 
 ! Local Gif Blacklist
 ||god-doujin.com/*.gif$image
@@ -212,3 +215,5 @@
 ||www.niceoppai.net/*.gif$image
 ||manga1688.com/*.gif$image
 ||www.tanuki-manga.com/*.gif$image
+||www.bankeela.com/*.gif$image
+
