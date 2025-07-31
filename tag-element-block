@@ -2,6 +2,7 @@
 ! Tag Element Remove
 hentaithai.com##.col-12.col-md-9 > .row > div.col-12:nth-of-type(2)
 goal5.co###maingoal > div:nth-of-type(2)
+www.go-manga.com###sticky-bottom
 
 ! URL Element Remove
 hentaithai.com##[src*="//hentaithai.com/banner/main_top.php"]
