@@ -116,6 +116,10 @@
 ||cdn.speed-manga.com/2025/05/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-pg-%E0%B8%9F%E0%B8%A3%E0%B8%B5.webp$image
 ||cdn.speed-manga.com/2025/04/banner728x200.png$image
 ||cdn.speed-manga.com/2025/06/new728x360fast24h.webp$image
+||speed-manga.com/wp-content/uploads/2025/07/pgsexybanner.webp$image
+||speed-manga.com/wp-content/uploads/2025/04/Spez888.webp$image
+||speed-manga.com/wp-content/uploads/2025/05/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-pg-%E0%B8%9F%E0%B8%A3%E0%B8%B5.webp$image
+||speed-manga.com/wp-content/uploads/2025/07/banner728x200.webp$image
 ||hentaithai.com/banner/exo/*.jpg$image
 ||s1.hentaithai.net/image/other/hPiece.jpg$image
 ||s1.hentaithai.net/image/banner/300x500-*.jpg$image
@@ -204,6 +208,7 @@
 ||www.bankeela.com$script
 
 ! Local Gif Blacklist
+||www.cartoon-th.com/*.gif$image
 ||www.doujin-y.com/*.gif$image
 ||calacasino.bet/*.gif$image
 ||god-doujin.com/*.gif$image
