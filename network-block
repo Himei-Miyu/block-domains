@@ -1,28 +1,5 @@
-! Global Whilelist
-@@*/wp-content/*.js$script
-@@*/wp-includes/*.js$script
-@@*/*.css$css
-@@*$font
-@@*/cloudflare-static/rocket-loader.min.js$script
-@@*/cdn-cgi/challenge-platform/h/b/orchestrate/*$script
-
-! Local Whilelist
-@@||neko-hentai.net/assets/js/minimal.js$script
-@@||neko-hentai.net/assets/js/jscolor.js$script
-@@||neko-hentai.net/assets/js/lazyload.min.js$script
-@@||neko-hentai.net/assets/js/script.js$script
-@@||dookeela.live/livewire/livewire.min.js$script
-@@||dookeela.live/js/*.js$script
-@@||dookeela2.live/livewire/livewire.min.js$script
-@@||dookeela2.live/js/*.js$script
-@@||www.anime-sugoi.com/js/*.js$script
-@@||www.anime-masters.com/js/*.js$script
-@@||goal5.co/js/livescore_goalco5.js$script
-@@||goal5.co/images/*.gif$image
-@@||up.goal5.co/*.gif$image
-@@||overlay.hanimesubth.com/assets/js/*.js$script
-
-! Global CDN Blacklist
+! Block image only
+! Provider CDN domain blacklist
 ||vvv.xn--s3cx7a.com/ambsiam/slot.gif$image
 ||vvv.xn--s3cx7a.com/heng/Banner-Heng3000-728x93.gif$image
 ||image.cdend.com/wp-content/uploads/2024/03/728x200-ufafat.gif$image
@@ -82,7 +59,7 @@
 ||images-delivery.com/ezgif-3f97bae1918a45.gif$image
 ||blogger.googleusercontent.com/img/b/*$image
 
-! Local Image Blacklist
+! Image domain blacklist (jpg,png,webp)
 ||god-doujin.com/wp-content/uploads/2025/04/678c924b86f47.webp$image
 ||god-doujin.com/wp-content/uploads/2025/06/webcitron.jpg$image
 ||god-doujin.com/wp-content/uploads/2025/04/a9c0e4bfedc131c8c70c0670d570efac.webp$image
@@ -171,43 +148,13 @@
 ||anime-yuzu.com/up/img/webp/slotgame666.webp$image
 ||anime-yuzu.com/up/img/webp/lotto432.webp$image
 ||anime-yuzu.com/up/img/webp/juad888.webp$image
+||www.anime-yuzu.com/wp-content/uploads/2024/02/bg.webp$image
 ||dookeela.live/images/closed11.png
 ||dookeela2.live/images/closed11.png
 ||www.bankeela.com/wp-content/uploads/2024/11/Live_football_on_tv-1000x369.jpg
 ||goal5.co/images/bg.png$image
 
-! Local Script Blacklist
-||god-doujin.com^$script
-||doujin-lc.net^$script
-||manga-lc.net^$script
-||ped-manga.com^script
-||www.slow-manga.com^$script
-||www.go-manga.com^$script
-||speed-manga.com^$script
-||www.flash-manga.com^$script
-||doujin-th.com^$script
-||hentaithai.com^$script
-||manhwathai.com^$script
-||neko-hentai.net^$script
-||miku-doujin.com^$script
-||clip2thai.com^$script
-||www.anime-yuzu.com^$script
-||www.anime-sugoi.com^$script
-||www.anime-masters.com^$script
-||www.xn--l3c0azab5a2gta.com^$script
-||goal5.co^$script
-||hanimesubth.com^$script
-||anime-h.net^$script
-||www.oremanga.net^$script
-||www.mangakimi.com^$script
-||www.niceoppai.net^$script
-||manga1688.com^$script
-||www.tanuki-manga.com^$script
-||dookeela.live^$script
-||dookeela2.live^$script
-||www.bankeela.com$script
-
-! Local Gif Blacklist
+! GIF wildcard domain blacklist
 ||www.cartoon-th.com/*.gif$image
 ||www.doujin-y.com/*.gif$image
 ||calacasino.bet/*.gif$image
