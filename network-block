@@ -1,4 +1,7 @@
 ! Block image only
+
+
+
 ! Provider CDN domain blacklist
 ||vvv.xn--s3cx7a.com/ambsiam/slot.gif$image
 ||vvv.xn--s3cx7a.com/heng/Banner-Heng3000-728x93.gif$image
@@ -104,6 +107,8 @@
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhejQfZ88VR9TBM3HwvuFpV_E3VVcVBDx-IMbHbRzaWwUfJTj6E1SGgEKzgsMJnoBhKX5zKU0rEbgdc8PKrjeorALQceKMqbMtrpy7-t7i3XS5Jr8rlG7ZDzCgKLmE-YOoCXRkZbLzBpzb7osIpQB8GYA0Z9fMGyAp5dP9LFnELTHW5usaKfj3R-Z0jRg/s16000/546562662.gif$image
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTldqtwBhgEMKKJKcnpyvtqGGTqJU4-Qp7oDLOlWdNPcKXdSqxR4jW1vhvYdju0PIJmIeQkS3Qx-UsylGeE1tx1VQvwT8RzILzYnhNoNtTCkEA5v4Js-OcDS7xpN6ezHlqHw5aPralgCNXSL-FVuCWx705yAXHacwNz_-rHPr0Z8pfTMMmk1a6tETy7Q/s16000/565956236.gif$image
 
+
+
 ! Image domain blacklist (jpg,png,webp)
 ||god-doujin.com/wp-content/uploads/2025/04/pgk44.webp$image
 ||god-doujin.com/wp-content/uploads/2025/08/photo_2025-08-19_14-49-18.jpg$image
@@ -113,7 +118,6 @@
 ||god-doujin.com/wp-content/uploads/2025/06/bannerberlin66.webp$image
 ||god-doujin.com/wp-content/uploads/2025/07/allbaca-prnufs.webp$image
 ||god-doujin.com/wp-content/uploads/2025/06/qe-1.jpg$image
-
 ||god-manga.com/wp-content/uploads/2025/04/pgk44.webp$image
 ||god-manga.com/wp-content/uploads/2025/04/67e50b53e6d08.webp$image
 ||god-manga.com/wp-content/uploads/2025/06/webcitron.jpg$image
@@ -122,13 +126,11 @@
 ||god-manga.com/wp-content/uploads/2025/04/67f15c27acae0.webp$image
 ||god-manga.com/wp-content/uploads/2025/04/Spez888.webp$image
 ||god-manga.com/wp-content/uploads/2025/04/a9c0e4bfedc131c8c70c0670d570efac.webp$image
-
 ||ped-manga.com/wp-content/uploads/2025/04/pgk44.webp$image
 ||ped-manga.com/wp-content/uploads/2025/06/webcitron.jpg$image
 ||ped-manga.com/wp-content/uploads/2025/06/qe.jpg$image
 ||ped-manga.com/wp-content/uploads/2025/04/a9c0e4bfedc131c8c70c0670d570efac.webp$image
 ||ped-manga.com/wp-content/uploads/2025/06/bannerberlin66.webp$image
-
 ||www.go-manga.com/wp-content/uploads/2025/05/%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2-1-PIG_No.jpg$image
 ||www.go-manga.com/wp-content/uploads/2025/05/%E0%B8%82%E0%B8%A7%E0%B8%B2-1-PIG_No.jpg$image
 ||www.go-manga.com/wp-content/uploads/2025/05/%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2-2-PIG_No.jpg$image
@@ -147,17 +149,14 @@
 ||www.go-manga.com/wp-content/uploads/2025/07/pigspinmr4.jpg$image
 ||www.go-manga.com/wp-content/uploads/2024/04/close.png$image
 ||www.go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg$image
-
 ||cdn.speed-manga.com/2025/04/Spez888.webp$image
 ||cdn.speed-manga.com/2025/05/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-pg-%E0%B8%9F%E0%B8%A3%E0%B8%B5.webp$image
 ||cdn.speed-manga.com/2025/04/banner728x200.png$image
 ||cdn.speed-manga.com/2025/06/new728x360fast24h.webp$image
-
 ||speed-manga.com/wp-content/uploads/2025/07/pgsexybanner.webp$image
 ||speed-manga.com/wp-content/uploads/2025/04/Spez888.webp$image
 ||speed-manga.com/wp-content/uploads/2025/05/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-pg-%E0%B8%9F%E0%B8%A3%E0%B8%B5.webp$image
 ||speed-manga.com/wp-content/uploads/2025/07/banner728x200.webp$image
-
 ||www.up-manga.com/wp-content/uploads/2025/07/pigspinml1.jpg$image
 ||www.up-manga.com/wp-content/uploads/2025/07/pigspinmr1.jpg$image
 ||www.up-manga.com/wp-content/uploads/2025/07/pigspinml2.jpg$image
@@ -167,16 +166,11 @@
 ||www.up-manga.com/wp-content/uploads/2025/07/pigspinml4.jpg$image
 ||www.up-manga.com/wp-content/uploads/2025/07/pigspinmr4.jpg$image
 ||www.up-manga.com/wp-content/uploads/2023/12/close.png$image
-
 ||hentaithai.com/banner/exo/*.jpg$image
-
 ||s1.hentaithai.net/image/other/hPiece.jpg$image
 ||s1.hentaithai.net/image/banner/300x500-*.jpg$image
-
 ||clip2thai.com/wp-content/uploads/2024/10/19.webp$image
-
 ||www.anime-sugoi.com/pic/webp/*.webp$image
-
 ||www.anime-masters.com/upload/(%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2-1)-PIG_No.jpg$image
 ||www.anime-masters.com/upload/(%E0%B8%82%E0%B8%A7%E0%B8%B2-1)-PIG_No.jpg$image
 ||www.anime-masters.com/upload/(%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2-2)-PIG_No.jpg$image
@@ -195,16 +189,11 @@
 ||www.anime-masters.com/upload/pigspinmr4.jpg$image
 ||www.anime-masters.com/anime-master-background.webp$image
 ||www.anime-masters.com/image/X11-icon.png$image
-
 ||image5.niceoppai.net/d8/db/Upload-setto2-LZ6PI-By-Niceoppai.jpg$image
 ||image5.niceoppai.net/d4/6b/Upload-setto2-EYO5V-By-Niceoppai.jpg$image
-
 ||image7.niceoppai.net/d0/3f/Upload-tatas232-8DHG9-By-Niceoppai.jpg$image
-
 ||manga1688.com/wp-content/uploads/2025/04/678c924b86f47.webp$image
-
 ||manga168.net/wp-content/uploads/2025/04/7dd9800e186d0ff5bab3e05b99107937.jpg$image
-
 ||miku-doujin.com/pic/ufafat.webp$image
 ||miku-doujin.com/pic/ufanance.webp$image
 ||miku-doujin.com/pic/juad88.webp$image
@@ -219,7 +208,6 @@
 ||miku-doujin.com/pic/ufac4.webp$image
 ||miku-doujin.com/pic/brazill.webp$image
 ||miku-doujin.com/pic/sexygame1688.webp$image
-
 ||anime-yuzu.com/up/img/webp/lalikabet88.webp$image
 ||anime-yuzu.com/up/img/webp/lalika66.webp$image
 ||anime-yuzu.com/up/img/webp/boston777.webp$image
@@ -239,17 +227,14 @@
 ||anime-yuzu.com/up/img/webp/slotgame666.webp$image
 ||anime-yuzu.com/up/img/webp/lotto432.webp$image
 ||anime-yuzu.com/up/img/webp/juad888.webp$image
-
 ||www.anime-yuzu.com/wp-content/uploads/2024/02/bg.webp$image
-
 ||dookeela.live/images/closed11.png$image
 ||dookeela2.live/images/closed11.png$image
-
 ||www.bankeela.com/wp-content/uploads/2024/11/Live_football_on_tv-1000x369.jpg$image
-
 ||goal5.co/images/bg.png$image
-
 ||manga-lc.net/wp-content/uploads/2024/02/close_button.png$image
+
+
 
 ! GIF wildcard domain blacklist
 ||www.108read.com/*.gif$image
@@ -272,7 +257,6 @@
 ||www.sing-manga.com/*.gif$image
 ||www.up-manga.com/*.gif$image
 ||www.xn--l3c0azab5a2gta.com/*.gif$image
-
 ||anime-h.net/*.gif$image
 ||calacasino.bet/*.gif$image
 ||clip2thai.com/*.gif$image
