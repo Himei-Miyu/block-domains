@@ -1,7 +1,5 @@
 ! Block image only
 
-
-
 ! Provider CDN domain blacklist
 ||vvv.xn--s3cx7a.com/ambsiam/slot.gif$image
 ||vvv.xn--s3cx7a.com/heng/Banner-Heng3000-728x93.gif$image
@@ -106,7 +104,12 @@
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHRqmC6KAtSZ_495Inm_Xfj49TdySh-6WJ5S2SsjCjlEGoFXbl1pydTB3e3yLCRAyeRXzTHZvb3iCCmyrElvXKadlJw5-gCdFz28DMz8zBjzUc6gNTuWkURpLc-UT-B2sgTHusMOiIzF1v-xgQoY4EcVds1g6OCe25fpsnX7LT9XSfRa8lvoZR4Z98xQ/s16000/231223101.gif$image
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhejQfZ88VR9TBM3HwvuFpV_E3VVcVBDx-IMbHbRzaWwUfJTj6E1SGgEKzgsMJnoBhKX5zKU0rEbgdc8PKrjeorALQceKMqbMtrpy7-t7i3XS5Jr8rlG7ZDzCgKLmE-YOoCXRkZbLzBpzb7osIpQB8GYA0Z9fMGyAp5dP9LFnELTHW5usaKfj3R-Z0jRg/s16000/546562662.gif$image
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTldqtwBhgEMKKJKcnpyvtqGGTqJU4-Qp7oDLOlWdNPcKXdSqxR4jW1vhvYdju0PIJmIeQkS3Qx-UsylGeE1tx1VQvwT8RzILzYnhNoNtTCkEA5v4Js-OcDS7xpN6ezHlqHw5aPralgCNXSL-FVuCWx705yAXHacwNz_-rHPr0Z8pfTMMmk1a6tETy7Q/s16000/565956236.gif$image
-
+||images-delivery.com/x5thh0003.gif$image
+||images-delivery.com/x5thh0002.gif$image
+||images-delivery.com/x5thh0001.gif$image
+||vvv.xn--s3cx7a.com/banner/fafa456.gif$image
+||vvv.xn--s3cx7a.com/ambsiam/Banner-750x93.gif$image
+||vvv.xn--s3cx7a.com/heng/Heng3000-FN.gif$image
 
 
 ! Image domain blacklist (jpg,png,webp)
@@ -233,7 +236,12 @@
 ||www.bankeela.com/wp-content/uploads/2024/11/Live_football_on_tv-1000x369.jpg$image
 ||goal5.co/images/bg.png$image
 ||manga-lc.net/wp-content/uploads/2024/02/close_button.png$image
-
+||ok-doujinx.com/wp-content/uploads/2022/11/closev6.png$image
+||thaihub2.com/wp-content/uploads/2024/05/banner2.png$image
+||thaihub2.com/wp-content/uploads/2025/08/Weplay_Banner-GIF-800x300-09.jpg$image
+||thaihub2.com/wp-content/uploads/2023/07/closed111.png$image
+||18ntr.com/wp-content/uploads/2025/04/72cf1061bb37cc41081b746df91a113d.webp$image
+||18ntr.com/wp-content/uploads/2025/04/67f15c27acab6.webp$image
 
 
 ! GIF wildcard domain blacklist
@@ -276,4 +284,7 @@
 ||neko-hentai.net/*.gif$image
 ||ped-manga.com/*.gif$image
 ||speed-manga.com/*.gif$image
-
+||thaihub2.com/*.gif$image
+||ecchi-doujin.com/*.gif$image
+||18ntr.com/*.gif$image
+||ok-doujinx.com/*.gif$image
