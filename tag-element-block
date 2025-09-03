@@ -1,5 +1,8 @@
 ! wait change to one file for Element Block
 ! Tag Element Remove
+hentaithai.com##.row.text-center.g-3.my-3 > div.col-12.col-md-4:nth-of-type(1)
+hentaithai.com##.row.text-center.g-3.my-3 > div.col-12.col-md-4:nth-of-type(2)
+hentaithai.com##.row.text-center.g-3.my-3 > div.col-12.col-md-4:nth-of-type(3)
 hentaithai.com##.col-12.col-md-9 > .row > div.col-12:nth-of-type(2)
 goal5.co###maingoal > div:nth-of-type(2)
 www.go-manga.com###sticky-bottom
