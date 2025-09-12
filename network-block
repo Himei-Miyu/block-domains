@@ -1,4 +1,15 @@
 ! Block image only
+@@up.goal1.co/*.gif$image
+@@up.goal3.co/*.gif$image
+@@up.goal4.co/*.gif$image
+@@up.goal5.co/*.gif$image
+@@up.goal6.co/*.gif$image
+@@goal1.co/images/*.gif$image
+@@goal3.co/images/*.gif$image
+@@goal4.co/images/*.gif$image
+@@goal5.co/images/*.gif$image
+@@goal6.co/images/*.gif$image
+
 
 ! Provider CDN domain blacklist
 ||image.cdend.com/wp-content/uploads/2024/03/728x200-ufafat.gif$image
