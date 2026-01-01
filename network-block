@@ -336,7 +336,8 @@
 ||oredoujin.com/wp-content/uploads/2025/04/678c924b86f47.webp$image
 ||bbb.webtoon168.com/file/server2/img/7dd9800e186d0ff5bab3e05b99107937.jpg$image
 ||cloud.thai-hentai.com/i/PGW44.webp$image
-
+||www.anime-masterx.com/upload/regem.jpg$image
+||miku-doujin.com/pic/ssgame66.webp$image
 
 ! GIF wildcard domain blacklist
 ||www.108read.com/*.gif$image
@@ -391,3 +392,5 @@
 ||cat-300.com/*.gif$image
 ||thai-hentai.com/*.gif$image
 ||mangadoujin.com/*.gif$image
+||www.anime-masterx.com/*.gif$image
+||thaihub3.com/*.gif$image
