@@ -164,6 +164,8 @@
 ||vvv.xn--s3cx7a.com/heng/Banner-Heng3000-728x93.gif$image
 
 ! Image domain blacklist (jpg,png,webp)
+||www.fin-manga.com/wp-content/uploads/2025/11/close.png
+||www.fin-manga.com/wp-content/uploads/2025/12/regem.jpg
 ||cat-300.com/wp-content/uploads/2021/02/advanced_floating_close_button.png$image
 ||god-doujin.com/wp-content/uploads/2025/04/pgk44.webp$image
 ||god-doujin.com/wp-content/uploads/2025/08/photo_2025-08-19_14-49-18.jpg$image
@@ -340,6 +342,7 @@
 ||miku-doujin.com/pic/ssgame66.webp$image
 
 ! GIF wildcard domain blacklist
+||www.fin-manga.com/*.gif$image
 ||www.108read.com/*.gif$image
 ||www.anime-masters.com/*.gif$image
 ||www.anime-sugoi.com/*.gif$image
