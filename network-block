@@ -4,12 +4,13 @@
 @@up.goal4.co/*.gif$image
 @@up.goal5.co/*.gif$image
 @@up.goal6.co/*.gif$image
+@@up.goal7.co/*.gif$image
 @@goal1.co/images/*.gif$image
 @@goal3.co/images/*.gif$image
 @@goal4.co/images/*.gif$image
 @@goal5.co/images/*.gif$image
 @@goal6.co/images/*.gif$image
-
+@@goal7.co/images/*.gif$image
 
 ! Provider CDN domain blacklist
 ||image.cdend.com/wp-content/uploads/2026/01/728x200-sexy365bet.gif$image
@@ -158,6 +159,22 @@
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMZVaXPMsC-Nbh0-B0f8pZQyEyO2eLp3AWQEp-iCu2JI3DCpPZukZzGiOuIt8_s79fg4hXo2aCUZrt6FW3VJn76VIR83B0jONF6Q552OxhtRyryir6ZdmXU1v9Dko0clCisKZaBLS-tnPwJ4VDtpUJfKi9fMW_GiAyJ-DhxQdnR7a3v130PdxZxmNCUw/s16000/2626265626.gif$image
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAZFBBOeCeKfSwSzbeJ37YgCdrcD_5esXDs1SPAOPqkV6vqVRKDxEp1mbEe6bJ0CggNFSG5RybWUgmR_4yNxOigtkYItkf2GzX-g7R0JulO7EhBWjC9O-t5qY_Ftd6ftzh6gZAan2aEqw-Q5DRGSXiqs0JkROo5hdKA20y8t8hRJYf-8kbeyvG1v0zxQ/s16000/5489565662.gif$image
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjndcMn3HqKhQeZfxKKW5RgusNyoo0E3PBdqJY7pevnC3wh-iM7yvmFp86_ngv7j8-5EoyV95HSpN7EiNyeC0-NxEvin1j65dpxGg7Km-AUrFjwQzenL5IB7JNUO0De6kFKNR3amQpusqReZ_5QUg5joScNDwktxAZsGJBfOnA9BGpg0CTfEouiMfgY1g/s16000/26559226.gif$image
+||manage.player24k.com/storage/ads/*.gif$image
+||manage.player24k.com/storage/ads/GxQZm9kI1W9hHhmeJWvVOTP6x5lIheGPUopXB7Tf.webp$image
+||manage.player24k.com/storage/ads/bJgfIb6k6YWLT0OPM6WMMsj1T4CGzzPNMGThliGP.webp$image
+||manage.player24k.com/storage/ads/iYiZfQ28pPyM3U8Uj3EzPbeqmooqJPFGTZJCP7uI.webp$image
+||manage.player24k.com/storage/ads/B2dDpvUaEpGqxQsx5pNFIFEXhasWV5riXuJ7BTYN.webp$image
+||manage.player24k.com/storage/ads/jdgjqGuZzVSVNg64hf83VXpZ6f2L05KXjSpc4u7N.webp$image
+||manage.player24k.com/storage/ads/LQuRN1cbW0fuAD5CvsMUX0mCVg2uIPS4q0awnyg9.webp$image
+||manage.player24k.com/storage/ads/znqWNr04otJ438ABsMQb9pP7WDf6xyzl0ZryXaEC.webp$image
+||manage.player24k.com/storage/ads/0UqOTQ47GLJ2cEkJPVyLtbYwm36Xjto3kWLvOnOj.webp$image
+||manage.player24k.com/storage/ads/ygObcCJcJAUjN3kOivB9Lw3JioSCbMohxb47djDP.webp$image
+||manage.player24k.com/storage/ads/8fo8ciRVcWYC9CKoBnIYvoCQDfDs5WdY8BUwLP1x.webp$image
+||manage.player24k.com/storage/ads/ZiK9F1QjDPdEWqrtjlkOMtYYpJpO2k4BRsVitmR5.webp$image
+||manage.player24k.com/storage/ads/K12tpwvpSOOAwgdG1EDIyeIN15FMm6Fkoklfm3rC.webp$image
+||manage.player24k.com/storage/ads/P93ex4h4ItO3vGqvqkGHtOWMcyhYqtLiOZHglAar.webp$image
+||manage.player24k.com/storage/ads/Frp2dIug3dzzsJkzWOkffQYujFyEsViPGosMFc9L.webp$image
+||manage.player24k.com/storage/ads/or04amDy1j948IB20nAXMY2pJ1NnMhx46akkY2fQ.webp$image
 ||1.bp.blogspot.com/-2a1NCQ1typI/YSkgP45o5XI/AAAAAAAAzJw/xI-Uoe3-Q8UzqMDwRUuRCea5lGYMv1eZQCLcBGAsYHQ/s0/801fc7b1d350c6fc17ce01b766fecc79.png$image
 ||vvv.xn--s3cx7a.com/banner/fafa456.gif$image
 ||vvv.xn--s3cx7a.com/ambsiam/Banner-750x93.gif$image
@@ -210,6 +227,18 @@
 ||www.go-manga.com/wp-content/uploads/2024/01/go-manga-wallpapaer.jpg$image
 ||www.go-manga.com/wp-content/uploads/2025/12/regem.jpg$image
 ||www.go-manga.com/wp-content/uploads/2025/11/go-manga-wallpaper.jpg$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5l1.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5r1.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5l2.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5r2.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5l3.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5r3.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5l4.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5r4.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5l5.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5r5.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5l6.png$image
+||www.go-manga.com/wp-content/uploads/2026/03/pigspinv5r6.png$image
 ||cdn.speed-manga.com/2025/04/Spez888.webp$image
 ||cdn.speed-manga.com/2025/05/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-pg-%E0%B8%9F%E0%B8%A3%E0%B8%B5.webp$image
 ||cdn.speed-manga.com/2025/04/banner728x200.png$image
@@ -231,6 +260,17 @@
 ||www.up-manga.com/wp-content/uploads/2025/07/pigspinmr4.jpg$image
 ||www.up-manga.com/wp-content/uploads/2023/12/close.png$image
 ||www.up-manga.com/wp-content/uploads/2025/12/regem.jpg$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4l1.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4r1.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4l2.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4r2.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4l3.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4r3.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4l4.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4r4.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4l5.png$image
+||www.up-manga.com/wp-content/uploads/2026/03/betflik-revisedv4r5.png$image
+||www.up-manga.com/wp-content/uploads/2023/09/wallpaperonepiecefullhd.jpg$image
 ||hentaithai.com/banner/exo/*.jpg$image
 ||s1.hentaithai.net/image/other/hPiece.jpg$image
 ||s1.hentaithai.net/image/banner/300x500-*.jpg$image
@@ -296,6 +336,9 @@
 ||anime-yuzu.com/up/img/webp/Panama8888.webp$image
 ||anime-yuzu.com/up/img/webp/Brazil999.webp$image
 ||anime-yuzu.com/up/img/webp/Sagame66.webp$image
+||anime-yuzu.com/up/img/webp/Sexy365bet.webp$image
+||anime-yuzu.com/up/img/webp/mahagame66.webp$image
+||anime-yuzu.com/up/img/webp/ufabomb.webp$image
 ||www.anime-yuzu.com/wp-content/uploads/2024/02/bg.webp$image
 ||dookeela.live/images/closed11.png$image
 ||dookeela2.live/images/closed11.png$image
@@ -344,6 +387,7 @@
 ||cloud.thai-hentai.com/i/PGW44.webp$image
 ||www.anime-masterx.com/upload/regem.jpg$image
 ||miku-doujin.com/pic/ssgame66.webp$image
+||animeruka.com/wp-content/uploads/2022/10/anm7425_fix.jpg$image
 
 ! GIF wildcard domain blacklist
 ||www.fin-manga.com/*.gif$image
@@ -381,6 +425,7 @@
 ||goal4.co/*.gif$image
 ||goal5.co/*.gif$image
 ||goal6.co/*.gif$image
+||goal7.co/*.gif$image
 ||god-doujin.com/*.gif$image
 ||god-manga.com/*.gif$image
 ||hanimesubth.com/*.gif$image
@@ -401,3 +446,4 @@
 ||mangadoujin.com/*.gif$image
 ||www.anime-masterx.com/*.gif$image
 ||thaihub3.com/*.gif$image
+||animeruka.com/*.gif$image
