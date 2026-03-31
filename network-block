@@ -13,6 +13,7 @@
 @@goal7.co/images/*.gif$image
 
 ! Provider CDN domain blacklist
+||image.cdend.com/wp-content/uploads/2024/03/728x200-slotgame66.gif$image
 ||image.cdend.com/wp-content/uploads/2026/01/728x200-sexy365bet.gif$image
 ||image.cdend.com/wp-content/uploads/2026/01/728x200-mahagame66.gif$image
 ||image.cdend.com/wp-content/uploads/2024/03/728x200-ufafat.gif$image
@@ -313,6 +314,20 @@
 ||miku-doujin.com/pic/ufac4.webp$image
 ||miku-doujin.com/pic/brazill.webp$image
 ||miku-doujin.com/pic/sexygame1688.webp$image
+||miku-doujin.com/pic/728x200-SSGAME66.webp$image
+||miku-doujin.com/pic/728x200-ufafat.webp$image
+||miku-doujin.com/pic/728x200-ufanance.webp$image
+||miku-doujin.com/pic/728x200-Lockdown168.webp$image
+||miku-doujin.com/pic/728x200-kingdom66.webp$image
+||miku-doujin.com/pic/728x200-Hydra888.webp$image
+||miku-doujin.com/pic/728x200-SA1688.webp$image
+||miku-doujin.com/pic/728x200-panama888.webp$image
+||miku-doujin.com/pic/728x200-LOTTO432.webp$image
+||miku-doujin.com/pic/728x200-ufazeed.webp$image
+||miku-doujin.com/pic/728x200-UFAC4.webp$image
+||miku-doujin.com/pic/728x200-brazil999.webp$image
+||miku-doujin.com/pic/728x200-sexygame1688.webp$image
+||miku-doujin.com/pic/ssgame66.webp$image
 ||anime-yuzu.com/up/img/webp/lalikabet88.webp$image
 ||anime-yuzu.com/up/img/webp/lalika66.webp$image
 ||anime-yuzu.com/up/img/webp/boston777.webp$image
@@ -384,9 +399,9 @@
 ||bbb.webtoon168.com/file/server2/img/7dd9800e186d0ff5bab3e05b99107937.jpg$image
 ||cloud.thai-hentai.com/i/PGW44.webp$image
 ||www.anime-masterx.com/upload/regem.jpg$image
-||miku-doujin.com/pic/ssgame66.webp$image
 ||animeruka.com/wp-content/uploads/2022/10/anm7425_fix.jpg$image
 ||dookeela*.live/images/ads_available.jpg$image
+||037javhd.com/wp-content/uploads/2025/12/contact.jpg$image
 
 ! GIF wildcard domain blacklist
 ||www.fin-manga.com/*.gif$image
@@ -445,3 +460,5 @@
 ||www.anime-masterx.com/*.gif$image
 ||thaihub3.com/*.gif$image
 ||animeruka.com/*.gif$image
+||037javhd.com/*.gif$image
+
