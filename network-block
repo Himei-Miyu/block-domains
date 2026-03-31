@@ -340,8 +340,6 @@
 ||anime-yuzu.com/up/img/webp/mahagame66.webp$image
 ||anime-yuzu.com/up/img/webp/ufabomb.webp$image
 ||www.anime-yuzu.com/wp-content/uploads/2024/02/bg.webp$image
-||dookeela.live/images/closed11.png$image
-||dookeela2.live/images/closed11.png$image
 ||www.bankeela.com/wp-content/uploads/2024/11/Live_football_on_tv-1000x369.jpg$image
 ||goal1.co/images/bg.png$image
 ||goal3.co/images/bg.png$image
@@ -388,6 +386,7 @@
 ||www.anime-masterx.com/upload/regem.jpg$image
 ||miku-doujin.com/pic/ssgame66.webp$image
 ||animeruka.com/wp-content/uploads/2022/10/anm7425_fix.jpg$image
+||dookeela*.live/images/ads_available.jpg$image
 
 ! GIF wildcard domain blacklist
 ||www.fin-manga.com/*.gif$image
@@ -416,8 +415,7 @@
 ||anime-h.net/*.gif$image
 ||calacasino.bet/*.gif$image
 ||clip2thai.com/*.gif$image
-||dookeela.live/*.gif$image
-||dookeela2.live/*.gif$image
+||dookeela*.live/*.gif$image
 ||doujin-lc.net/*.gif$image
 ||doujin-th.com/*.gif$image
 ||goal1.co/*.gif$image
