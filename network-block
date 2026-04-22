@@ -402,6 +402,9 @@
 ||animeruka.com/wp-content/uploads/2022/10/anm7425_fix.jpg$image
 ||dookeela*.live/images/ads_available.jpg$image
 ||037javhd.com/wp-content/uploads/2025/12/contact.jpg$image
+||www.dark-manga.com/wp-content/uploads/2025/12/regem.jpg$image
+||www.dark-manga.com/wp-content/uploads/2025/11/close.png$image
+||www.dark-manga.com/wp-content/uploads/2025/02/dark.webp$image
 
 ! GIF wildcard domain blacklist
 ||www.fin-manga.com/*.gif$image
@@ -461,4 +464,5 @@
 ||thaihub3.com/*.gif$image
 ||animeruka.com/*.gif$image
 ||037javhd.com/*.gif$image
+||www.dark-manga.com/*.gif$image
 
