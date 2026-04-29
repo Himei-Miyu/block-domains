@@ -66,6 +66,7 @@
 ||googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhUOtt1z4heqkXUY_NsNgqqT9zzftqNcTP2TX-bGANapsB8JxQqbjyqAEVePFYbIErwjY1YmAtW7opMsDBpugraxVi8ZrzFe9F2mrEpPZl9LOo7HA1DuJbX6My2X0wVXvHD8OwXgWAHokOze0AOR6m-oEBBMN1G3kbR6LN58kusSeaY-_5RPbrLHDLA/s1600/46562626.gif$image
 ||googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQb7S3AYXpIQew_L0UTfH0rKbKjxELlNlB440zljpJ93QDqZfP42LBDlc1bcW7wkR2Jx3ORHRGda4ckk3UlQiD6d1INHXSnwB22uvtqdKDMunlyeNz3bAhEI6o073e0IN1ISuxZJWys_a3NwzdqS-3kGemvVakOlnoROhVJYMQj10MxCLF8Vr2xJ24w/s16000/26262626659.gif$image
 ||googleusercontent.com/img/b/R29vZ2xl/AVvXsEjndcMn3HqKhQeZfxKKW5RgusNyoo0E3PBdqJY7pevnC3wh-iM7yvmFp86_ngv7j8-5EoyV95HSpN7EiNyeC0-NxEvin1j65dpxGg7Km-AUrFjwQzenL5IB7JNUO0De6kFKNR3amQpusqReZ_5QUg5joScNDwktxAZsGJBfOnA9BGpg0CTfEouiMfgY1g/s16000/26559226.gif$image
+||googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cHGSMnpaPlq3NRnvvL3rmtCwpj6wihX8PLaTikE3oPCjf9iMISAfvkcz6Qye60TfvgqC6n6MNlmhWLMFw26hAQ-Cj9P7HJJ5MGlVRNqO9ZPUv69VeGotd_oeVSur0FNfJvEdaJ5GFt3zx-myID4PiESGnu994FHe50tYaxV8Q2_4RhaBeUiprABx4A/s16000/7444155959.gif$image
 ||greatestglasses.com/uploads/catcat-728x200.gif$image
 ||greatestglasses.com/uploads/lotto24x-728x200.gif$image
 ||images-delivery.com/%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95%E0%B9%84%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%A5%E0%B8%94%E0%B8%B9%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B0%E0%B8%94%E0%B8%B8%E0%B8%94-V2-720x200-BANNER-GIF.gif$image
@@ -188,8 +189,33 @@
 ! Script domain blacklist
 ||cartoon-th.com/superpwa-sw.js$script
 ||cartoon-th.com/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js$script
+||speed-manga.net/superpwa-sw.js$script
+||speed-manga.net/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js$script
 
 ! Image domain blacklist (jpg,png,webp)
+||momentcar.com/wp-content/themes/filmplus/assets/img/bg.jpg$image
+||anime-seven.com/pic/webp/Sexy365bet.webp$image
+||anime-seven.com/pic/webp/mahagame66.webp$image
+||anime-seven.com/pic/webp/Brazil999.webp$image
+||anime-seven.com/pic/webp/lockdown168.webp$image
+||anime-seven.com/pic/webp/kingdom66.webp$image
+||anime-seven.com/pic/webp/ssgame666.webp$image
+||anime-seven.com/pic/webp/lotto77.webp$image
+||anime-seven.com/pic/webp/sexygame1688.webp$image
+||anime-seven.com/pic/webp/sagame1688.webp$image
+||anime-seven.com/pic/webp/ufac4.webp$image
+||anime-seven.com/pic/webp/ufa191.webp$image
+||anime-seven.com/pic/webp/ufafat.webp$image
+||anime-seven.com/pic/webp/ufazeed.webp$image
+||anime-seven.com/pic/webp/ufabomb.webp$image
+||anime-seven.com/upload/335357af810d85d0409c3f977744e18fo.jpg$image
+||anime-seven.com/pic/webp/Sagame66.webp$image
+||anime-seven.com/pic/webp/boston777.webp$image
+||anime-seven.com/pic/webp/juad888.webp$image
+||anime-seven.com/pic/webp/lotto432.webp$image
+||speed-manga.net/wp-content/uploads/2025/07/banner728x200.webp$image
+||speed-manga.net/wp-content/uploads/2026/02/Frame-517.webp$image
+||speed-manga.net/wp-content/uploads/2025/12/Spez888.webp$image
 ||037javhd.com/wp-content/uploads/2025/12/contact.jpg$image
 ||18ntr.com/wp-content/uploads/2025/04/67f15c27acab6.webp$image
 ||18ntr.com/wp-content/uploads/2025/04/72cf1061bb37cc41081b746df91a113d.webp$image
@@ -433,11 +459,30 @@
 ||oredoujin.com/wp-content/uploads/2025/09/48.webp$image
 ||oredoujin.com/wp-content/uploads/2025/11/Penny168.webp$image
 ||oredoujin.com/wp-content/uploads/2025/11/Sudjaad168.webp$image
+||oredoujin.com/wp-content/uploads/2025/09/67201999d2b31-ezgif.com-gif-to-webp-converter.webp$image
+||oredoujin.com/wp-content/uploads/2025/04/pgk44.webp$image
+||oredoujin.com/wp-content/uploads/2026/02/tkb138gif2.webp$image
+||oredoujin.com/wp-content/uploads/2026/02/tkbnekogif1.webp$image
+||oredoujin.com/wp-content/uploads/2026/02/photo_2026-02-25_17-05-46.jpg$image
+||oredoujin.com/wp-content/uploads/2026/02/Penny168-ezgif.com-gif-to-webp-converter.webp$image
+||oredoujin.com/wp-content/uploads/2026/03/SUGOI888.webp$image
+||oredoujin.com/wp-content/uploads/2026/02/Sudjaad168-ezgif.webp$image
+||oredoujin.com/wp-content/uploads/2024/06/close_button.png$image
 ||ped-manga.com/wp-content/uploads/2025/04/a9c0e4bfedc131c8c70c0670d570efac.webp$image
 ||ped-manga.com/wp-content/uploads/2025/04/pgk44.webp$image
 ||ped-manga.com/wp-content/uploads/2025/06/bannerberlin66.webp$image
 ||ped-manga.com/wp-content/uploads/2025/06/qe.jpg$image
 ||ped-manga.com/wp-content/uploads/2025/06/webcitron.jpg$image
+||ped-manga.com/wp-content/uploads/2026/03/Frame-517.jpg$image
+||ped-manga.com/wp-content/uploads/2025/09/67201999d2b31-ezgif.com-gif-to-webp-converter.webp$image
+||ped-manga.com/wp-content/uploads/2026/02/tkb138gif2.webp$image
+||ped-manga.com/wp-content/uploads/2026/02/tkbnekogif1.webp$image
+||ped-manga.com/wp-content/uploads/2026/02/photo_2026-02-25_17-05-46.jpg$image
+||ped-manga.com/wp-content/uploads/2026/02/Penny168-ezgif.com-gif-to-webp-converter.webp$image
+||ped-manga.com/wp-content/uploads/2026/03/SUGOI888.webp$image
+||ped-manga.com/wp-content/uploads/2026/02/Sudjaad168-ezgif.webp$image
+||ped-manga.com/wp-content/uploads/2025/08/photo_2025-08-19_14-49-18.jpg$image
+||ped-manga.com/wp-content/uploads/2022/09/003.jpg$image
 ||speed-manga.com/2025/04/Spez888.webp$image
 ||speed-manga.com/2025/04/banner728x200.png$image
 ||speed-manga.com/2025/05/%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-pg-%E0%B8%9F%E0%B8%A3%E0%B8%B5.webp$image
@@ -483,6 +528,8 @@
 ||webtoon168.com/file/server2/img/7dd9800e186d0ff5bab3e05b99107937.jpg$image
 
 ! GIF wildcard domain blacklist
+||anime-seven.com/*.gif$image
+||speed-manga.net/*.gif$image
 ||037javhd.com/*.gif$image
 ||108read.com/*.gif$image
 ||18ntr.com/*.gif$image
