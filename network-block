@@ -1,11 +1,11 @@
 ! Block all contents
 ||dhaohbwfigc.in^
-||pagead2.googlesyndication.com^
-||stats.g.doubleclick.net^
-||ad.doubleclick.net^
-||static.doubleclick.net^
-||m.doubleclick.net^
-||mediavisor.doubleclick.net^
+||pagead2.googlesyndication.com^$important
+||stats.g.doubleclick.net^$important
+||ad.doubleclick.net^$important
+||static.doubleclick.net^$important
+||m.doubleclick.net^$important
+||mediavisor.doubleclick.net^$important
 
 ! Allow images
 @@goal*.co/images/*.gif$image
