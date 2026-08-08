@@ -1,12 +1,3 @@
-! Block all contents
-||dhaohbwfigc.in^
-||pagead2.googlesyndication.com^$important
-||stats.g.doubleclick.net^$important
-||ad.doubleclick.net^$important
-||static.doubleclick.net^$important
-||m.doubleclick.net^$important
-||mediavisor.doubleclick.net^$important
-
 ! Allow images
 @@goal*.co/images/*.gif$image
 @@up.goal*.co/*.gif$image
