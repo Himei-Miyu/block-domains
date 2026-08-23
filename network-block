@@ -232,6 +232,13 @@
 ||player24k.com/storage/ads/or04amDy1j948IB20nAXMY2pJ1NnMhx46akkY2fQ.webp$image
 ||player24k.com/storage/ads/ygObcCJcJAUjN3kOivB9Lw3JioSCbMohxb47djDP.webp$image
 ||player24k.com/storage/ads/znqWNr04otJ438ABsMQb9pP7WDf6xyzl0ZryXaEC.webp$image
+||player24k.com/image/X12-icon.png$image
+||player24k.com/storage/ads/TWuQOaDvVib3667mFfcC4siH50Q8kUdaR5Lf6JDl.webp$image
+||player24k.com/storage/ads/WpYAUpeDj2INdg6EfmFvfb1QqoHCyx4XoQrzalgv.webp$image
+||player24k.com/storage/ads/3zm7d0Ey4lmztWniF2Tx0a5Eh4qiuwSuNdLdwLz6.webp$image
+||player24k.com/storage/ads/R9byOm9UR3yCwSinNRru5WBIJDIG7EgqYbdm2fL1.webp$image
+||player24k.com/storage/ads/k02dNUkYo28Ci6mbWig7H1LOEtf3i2jxT1g7VriL.webp$image
+||player24k.com/storage/ads/78T0EikCeTtPHRnH6LuhldXbJgkmUuLBeWrSde2n.webp$image
 ||xn--s3cx7a.com/ambsiam/Banner-750x93.gif$image
 ||xn--s3cx7a.com/ambsiam/slot.gif$image
 ||xn--s3cx7a.com/banner/fafa456.gif$image
@@ -239,12 +246,33 @@
 ||xn--s3cx7a.com/heng/Heng3000-FN.gif$image
 
 ! Script domain blacklist
+||turtlecute.org/js/widget/ads.js$script
+||turtlecute.org/js/pagead.js$script
 ||cartoon-th.com/superpwa-sw.js$script
 ||cartoon-th.com/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js$script
 ||speed-manga.net/superpwa-sw.js$script
 ||speed-manga.net/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js$script
 
 ! Image domain blacklist (jpg,png,webp)
+||anime-waku.com/wp-content/uploads/2024/02/bg.webp$image
+||anime-waku.com/up/img/webp/Sexy365bet.webp$image
+||anime-waku.com/up/img/webp/mahagame66.webp$image
+||anime-waku.com/up/img/webp/Brazil999.webp$image
+||anime-waku.com/up/img/webp/lockdown168.webp$image
+||anime-waku.com/up/img/webp/kingdom66.webp$image
+||anime-waku.com/up/img/webp/ssgame666.webp$image
+||anime-waku.com/up/img/webp/lotto77.webp$image
+||anime-waku.com/up/img/webp/sexygame1688.webp$image
+||anime-waku.com/up/img/webp/sagame1688.webp$image
+||anime-waku.com/up/img/webp/ufac4.webp$image
+||anime-waku.com/up/img/webp/ufa191.webp$image
+||anime-waku.com/up/img/webp/ufafat.webp$image
+||anime-waku.com/up/img/webp/ufazeed.webp$image
+||anime-waku.com/up/img/webp/ufabomb.webp$image
+||anime-waku.com/up/img/webp/Sagame66.webp$image
+||anime-waku.com/up/img/webp/boston777.webp$image
+||anime-waku.com/up/img/webp/lotto432.webp$image
+||anime-waku.com/up/img/webp/juad888.webp$image
 ||animesiam.com/wp-content/uploads/2023/05/%E0%B8%9C%E0%B8%A5%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94-THSCORE-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%A5%E0%B8%9A%E0%B8%AD%E0%B8%A5-888-%E0%B8%94%E0%B8%B9%E0%B8%9C%E0%B8%A5%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89.png$image
 ||momentcar.com/wp-content/themes/filmplus/assets/img/bg.jpg$image
 ||anime-seven.com/pic/webp/Sexy365bet.webp$image
@@ -296,6 +324,12 @@
 ||anime-masterx.com/upload/pigspinv6l2.png$image
 ||anime-masterx.com/upload/pigspinv6l3.png$image
 ||anime-masterx.com/upload/pigspinv6l4.png$image
+||anime-masterx.com/anime-master-background.webp$image
+||anime-masterx.com/image/X11-icon.png$image
+||anime-masterx.com/upload/New-Banner-728x200-(x4)-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-01pigl.png$image
+||anime-masterx.com/upload/New-Banner-728x200-(x4)-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-02pigl.png$image
+||anime-masterx.com/upload/New-Banner-728x200-(x4)-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-03pigl.png$image
+||anime-masterx.com/upload/New-Banner-728x200-(x4)-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-04pigl.png$image
 ||anime-masterx.com/upload/regem.jpg$image
 ||anime-sugoi.com/pic/webp/*.webp$image
 ||anime-yuzu.com/up/img/webp/Brazil999.webp$image
@@ -472,6 +506,7 @@
 ||miku-doujin.com/pic/pigslot2.webp$image
 ||miku-doujin.com/pic/ufa11k.webp$image
 ||miku-doujin.com/pic/sexy350.webp$image
+||miku-doujin.com/pic/pigpgslot.png$image
 ||miku-doujin.com/pic/PGK44.webp$image
 ||miku-doujin.com/pic/PGW44.webp$image
 ||miku-doujin.com/pic/1688sagame.webp$image
@@ -591,6 +626,7 @@
 ||webtoon168.com/file/server2/img/7dd9800e186d0ff5bab3e05b99107937.jpg$image
 
 ! GIF wildcard domain blacklist
+||anime-waku.com/*.gif$image
 ||animesiam.com/*.gif$image
 ||anime-seven.com/*.gif$image
 ||speed-manga.net/*.gif$image
