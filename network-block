@@ -694,3 +694,6 @@ adblock.turtlecute.org##.textads
 ||up-manga.com/*.gif$image
 ||upload18.org/*.gif$image
 ||xn--l3c0azab5a2gta.com/*.gif$image
+
+! Host Redirect Block
+||ads.tiktok.com/
