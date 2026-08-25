@@ -1,3 +1,8 @@
+! Test Adblock
+@@*$redirect-rule
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+adblock.turtlecute.org##.textads
+
 ! Allow images
 @@goal*.co/images/*.gif$image
 @@up.goal*.co/*.gif$image
